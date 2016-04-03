@@ -8,6 +8,7 @@
     "seed": "node ./bin/seed"
   },
   "dependencies": {
+    "angular": "^1.5.3",
     "babel": "^5.0.12",
     "bluebird": "^2.9.34",
     "body-parser": "^1.12.0",
